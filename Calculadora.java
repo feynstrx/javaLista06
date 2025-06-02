@@ -1,9 +1,4 @@
 package javaLista06;
-
-public class Calculadora {
-}
-package lista06;
-
 import java.util.Scanner;
 
 public class Calculadora {
